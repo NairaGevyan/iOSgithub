@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-//my first commite
+
 @interface ViewController ()
 
 @end
